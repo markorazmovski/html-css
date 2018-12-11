@@ -1,0 +1,72 @@
+.crvena {
+    width: 100%;
+    height: 100px;
+    background: #cc0000;
+}
+
+.zelena {
+    width: 100%;
+    height: 200px;
+    background: #009933;
+}
+
+.tret {
+    width: 100%;
+}
+
+.box {
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+
+.prva {
+    background: #000
+}
+
+.vtora {
+    background: #ffff00; 
+}
+
+.treta {
+    background: #000099;
+}
+
+.cetvrta {
+    background: #ffccff;
+}
+
+.redCetvrti {
+    width: 100%
+}
+
+.leva {
+    width: 50%;
+    height: 300px;
+    background:  #ff9900;
+    float: left;
+}
+.desna {
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+
+.rightBox {
+    width: 100%;
+    height: 50%;
+}
+.gore {  
+    background:  #6600cc;
+}
+
+.dole {
+    background:  #fff;
+}
+
+.kraj {
+    width: 100%;
+    height: 200px;
+    background:  #d6d6c2;
+    clear: both;
+}
